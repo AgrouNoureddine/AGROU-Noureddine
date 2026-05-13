@@ -16,7 +16,7 @@ Morocco 🇲🇦 · agrounoureddine2@gmail.com · [LinkedIn](https://linkedin.co
 
 ## About Me
 
-I'm a cybersecurity engineering student based in Morocco, with a specialized technician diploma and real hands-on experience in web application penetration testing. I believe that the best way to defend systems is to think like an attacker — and I've been training myself to do exactly that.
+I'm a cybersecurity engineering student based in Morocco, with a specialized technician diploma and real hands-on experience in web application penetration testing. I'm interested in both offensive and defensive security — from finding vulnerabilities through pentesting and bug bounty, to monitoring and responding to threats in a SOC environment.
 
 My internship at ONCF gave me my first taste of real-world pentesting. Since then, I haven't stopped. I practice on platforms, read writeups, hunt bugs, and document everything I learn.
 
